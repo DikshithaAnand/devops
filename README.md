@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my DevOps laboratory work and practical implementations completed as part of academic coursework. The project focuses on basic DevOps concepts, Java application structure, Maven project management, and version control practices using GitHub.
+This repository showcases practical DevOps lab exercises and Java-based implementations developed during academic learning. The project demonstrates fundamental DevOps practices, Maven project configuration, source code management, and structured application development using GitHub workflows.
 
 ---
 
