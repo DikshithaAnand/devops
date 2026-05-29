@@ -1,51 +1,64 @@
 # DevOps Lab Project
 
-## Overview
-
-This repository showcases practical DevOps lab exercises and Java-based implementations developed during academic learning. The project demonstrates fundamental DevOps practices, Maven project configuration, source code management, and structured application development using GitHub workflows.
+A Java-based DevOps laboratory project focused on understanding Maven project structure, source code management, and foundational DevOps workflow practices using GitHub.
 
 ---
 
-## Tech Stack
+## 📌 Project Overview
 
-* Java
-* Maven
-* Git & GitHub
+This repository contains practical DevOps exercises and Java implementations developed during academic lab sessions. The project demonstrates structured application development, Maven dependency management, and version control workflows commonly used in software development environments.
 
 ---
 
-## Project Structure
+## 🛠️ Technologies Used
+
+- Java
+- Maven
+- Git
+- GitHub
+
+---
+
+## 📂 Repository Structure
 
 ```bash
 devops/
-│── src/
-│── pom.xml
+├── src/
+└── pom.xml
 ```
 
 ---
 
-## Features
+## ✨ Key Features
 
-* Java-based project implementation
-* Maven build configuration
-* Source code organization
-* GitHub repository management
-* Basic DevOps workflow practices
-
----
-
-## Learning Outcomes
-
-Through this project, I gained hands-on experience with:
-
-* Maven project setup
-* Source code management
-* GitHub repository handling
-* Java project structuring
-* Basic DevOps workflow understanding
+- Maven-based Java project setup
+- Organized source code structure
+- GitHub version control integration
+- Basic DevOps workflow implementation
+- Academic lab practice and experimentation
 
 ---
 
-## Author
+## 📖 Skills Gained
+
+This project helped strengthen practical knowledge in:
+
+- Maven project configuration
+- Java application structuring
+- Source code management using Git
+- Repository handling with GitHub
+- Fundamental DevOps concepts and workflows
+
+---
+
+## 🚀 Future Improvements
+
+- Add CI/CD workflow integration
+- Implement automated build processes
+- Expand project modules and testing support
+
+---
+
+## 👩‍💻 Author
 
 **Dikshitha A**
